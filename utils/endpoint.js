@@ -1,0 +1,1 @@
+export const SERVICE_URL = process.env.NEXT_PUBLIC_ACCELERATOR_BACKEND_URL + "/node/api/core/"
